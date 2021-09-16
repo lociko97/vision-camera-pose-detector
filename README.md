@@ -47,7 +47,7 @@ In your component
 
 ```
 
-Returns an empty object if nothing was found or a Pose object with names of landmarks as keys and Landmark objects as their values of the detected pose.
+Returns an empty object if nothing was found or a Pose object with names of landmarks as keys and Landmark objects as their values.
 
 You can see the list of possible landmarks and other info here: https://developers.google.com/ml-kit/vision/pose-detection
 
