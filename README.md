@@ -5,7 +5,7 @@ A [VisionCamera](https://github.com/mrousavy/react-native-vision-camera) Frame P
 ## Installation
 
 ```sh
-npm install vision-camera-pose-detector
+npm install https://github.com/lociko97/vision-camera-pose-detector
 cd ios && pod install
 ```
 
